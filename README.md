@@ -14,3 +14,16 @@ Curso React Udemy
     - Crear listadops
     - Keys
     - Giphy
+3. Profundizando Hooks - Generales (Seccion 9)
+    - Profundizar en el tema de los Hooks
+    - Crear otros customHooks
+    - useState
+    - useCounter - Personalizado
+    - useEffect y sus precauciones
+    - useRef
+    - useFetch - Personalizado + optimizaciones
+    - useLayoutEffect
+    - Memo
+    - useMemo
+    - useCallback
+   

@@ -26,4 +26,9 @@ Curso React Udemy
     - Memo
     - useMemo
     - useCallback
-   
+4. Profundizando Hooks - useReducer
+    - useReducer
+    - Reducers
+    - Teoría de un reducer
+    - Aplicación de TODOs
+    - CRUD local

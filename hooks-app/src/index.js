@@ -14,11 +14,13 @@ import ReactDOM from 'react-dom';
 // import { MemoHook } from './components/_6.memos/MemoHook'
 // import { CallbackHook } from "./components/_6.memos/CallbackHook";
 // import { Padre } from "./components/_7.tarea-memo/Padre";
-import { TodoApp } from './components/_8.useRecuder/TodoApp';
+//import { TodoApp } from './components/_8.useRecuder/TodoApp';
+import { MainApp } from './components/_9.useContext/MainApp';
+
 
 
 ReactDOM.render(
-  <TodoApp />,
+  <MainApp />,
   document.getElementById('root')
 );
 

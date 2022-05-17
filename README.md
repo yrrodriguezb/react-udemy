@@ -44,3 +44,5 @@ Curso React Udemy
     - Links y NavLinks
     - CreateContext
     - SPA ( Single Page Application )
+6. Hooks - Pruebas unitarias y de integración (Seccion 12)
+    - Pruebas sobre Hooks y CustomHooks

@@ -39,6 +39,13 @@ export const useFetch = (url) => {
             console.info(`[${Date.now().toString()}]: No se puede establacer el nuevo estado del useFetch porque el componente fue desmontado`)
           }
         // }, 4000);
+      })
+      .catch(err => {
+        setState({
+          data: null,
+          loading: false,
+          error: 'No se puedo cargar la info'
+        })
       }) 
   }, [ url ])
 

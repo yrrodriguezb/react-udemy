@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <TodoAddForm /> Debe mostrarse correctamente 1`] = `
+<Fragment>
+  <h4
+    className="fs-3"
+  >
+    Agregar Todo
+  </h4>
+  <hr />
+  <form
+    onSubmit={[Function]}
+  >
+    <div
+      className="mb-3"
+    >
+      <label
+        className="form-label"
+        htmlFor="description"
+      >
+        Descripción
+      </label>
+      <input
+        aria-describedby="descHelp"
+        className="form-control"
+        id="description"
+        name="description"
+        onChange={[Function]}
+        type="text"
+        value=""
+      />
+      <div
+        className="form-text"
+        id="descHelp"
+      >
+        Descripción de la tarea.
+      </div>
+    </div>
+    <button
+      className="btn btn-primary"
+      type="submit"
+    >
+      Guardar
+    </button>
+  </form>
+</Fragment>
+`;

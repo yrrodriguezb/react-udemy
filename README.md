@@ -46,3 +46,11 @@ Curso React Udemy
     - SPA ( Single Page Application )
 6. Hooks - Pruebas unitarias y de integración (Seccion 12)
     - Pruebas sobre Hooks y CustomHooks
+7. SPA - Single Page Application
+    - SPA ( Single Page Application ) a profundidad
+    - Diferentes temas en la misma aplicación aplicados a diferentes rutas
+    - Multiples Routers
+    - Push y Replace en el History
+    - Leer argumentos por URL
+    - QueryParams
+    - Aplicar filtros utilizando QueryStrings

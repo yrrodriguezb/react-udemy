@@ -1,12 +1,23 @@
+import { useContext } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
+import { AuthContext } from '../../auth/authContext';
+import { types } from '../../types/types';
 
 
 export const Navbar = () => {
 
+  const { user, dispatch } = useContext(AuthContext);
   const navigate = useNavigate();
 
   const logout = () => {
+    const action = {
+      type: types.logout
+    }
+
+    // Solo se llama el dispatch, HeroesApp se encarga de limpiar el lovalStorage
+    dispatch(action);
+
     navigate('/login', {
       replace: true
     });
@@ -54,7 +65,7 @@ export const Navbar = () => {
           <span
             className='nav-item nav-link text-info'
           >
-            Yeison Rodriguez
+            { user.name }
           </span>
 
           <button 

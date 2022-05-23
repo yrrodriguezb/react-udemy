@@ -46,7 +46,7 @@ Curso React Udemy
     - SPA ( Single Page Application )
 6. Hooks - Pruebas unitarias y de integración (Seccion 12)
     - Pruebas sobre Hooks y CustomHooks
-7. SPA - Single Page Application
+7. SPA - Single Page Application - Sección 14
     - SPA ( Single Page Application ) a profundidad
     - Diferentes temas en la misma aplicación aplicados a diferentes rutas
     - Multiples Routers
@@ -54,3 +54,10 @@ Curso React Udemy
     - Leer argumentos por URL
     - QueryParams
     - Aplicar filtros utilizando QueryStrings
+7. Protección de Rutas - Seccion 15
+    - Rutas públicas
+    - Rutas privadas
+    - Login y logout - Sin backend aún
+    - Recordar cuál fue la última ruta visitada para mejorar la experiencia de usuario.
+    - Context
+    - Reducer

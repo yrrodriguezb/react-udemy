@@ -2,11 +2,10 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import PropTypes from 'prop-types'
+import { heroImages } from '../../helpers/heroImages'
 
 
 export const HeroCard = ({ hero }) => {
-
-  const imagePath = `/assets/img/heroes/${hero.id}.jpg`;
 
   return (
     <div className='col animate__animated animate__fadeIn'>
@@ -14,7 +13,7 @@ export const HeroCard = ({ hero }) => {
         <div className='row no-gutters'>
           <div className='col-4'>
             <img 
-              src={ imagePath } 
+              src={ heroImages(`./${ hero.id }.jpg`) } 
               className="card-img" 
               alt={ hero.superhero }  
             />

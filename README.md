@@ -1,5 +1,5 @@
-# react-udemy
-Curso React Udemy
+# React Udemy
+Curso React Udemy por [Fernando Herrera](https://www.udemy.com/user/550c38655ec11/)
 
 ## Demo
 
@@ -61,3 +61,11 @@ Curso React Udemy
     - Recordar cuál fue la última ruta visitada para mejorar la experiencia de usuario.
     - Context
     - Reducer
+8. Pruebas en Heroes App - Seccion 16
+    - Nuevos tipos de pruebas
+    - Pruebas en rutas privadas y públicas
+    - MemoryRouter
+    - Pruebas en nuestro DashboardRouter
+    - Pruebas en el AppRouter
+    - Simular URLs y segmentos
+    - Simular queryParams y queryStrings

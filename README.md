@@ -69,3 +69,9 @@ Curso React Udemy por [Fernando Herrera](https://www.udemy.com/user/550c38655ec1
     - Pruebas en el AppRouter
     - Simular URLs y segmentos
     - Simular queryParams y queryStrings
+9. JournalApp - SASS, Estructura y Diseño
+    - SASS
+    - Diseño completo de la aplicación de forma manual
+    - Uso de funciones de SASS
+    - Configuración y uso de parciales
+    - Transiciones en SASS

@@ -44,7 +44,7 @@ Curso React Udemy por [Fernando Herrera](https://www.udemy.com/user/550c38655ec1
     - Links y NavLinks
     - CreateContext
     - SPA ( Single Page Application )
-6. Hooks - Pruebas unitarias y de integración (Seccion 12)
+6. Hooks - Pruebas unitarias y de integración (Sección 12)
     - Pruebas sobre Hooks y CustomHooks
 7. SPA - Single Page Application - Sección 14
     - SPA ( Single Page Application ) a profundidad
@@ -54,14 +54,14 @@ Curso React Udemy por [Fernando Herrera](https://www.udemy.com/user/550c38655ec1
     - Leer argumentos por URL
     - QueryParams
     - Aplicar filtros utilizando QueryStrings
-7. Protección de Rutas - Seccion 15
+8. Protección de Rutas - Sección 15
     - Rutas públicas
     - Rutas privadas
     - Login y logout - Sin backend aún
     - Recordar cuál fue la última ruta visitada para mejorar la experiencia de usuario.
     - Context
     - Reducer
-8. Pruebas en Heroes App - Seccion 16
+9. Pruebas en Heroes App - Sección 16
     - Nuevos tipos de pruebas
     - Pruebas en rutas privadas y públicas
     - MemoryRouter
@@ -69,9 +69,26 @@ Curso React Udemy por [Fernando Herrera](https://www.udemy.com/user/550c38655ec1
     - Pruebas en el AppRouter
     - Simular URLs y segmentos
     - Simular queryParams y queryStrings
-9. JournalApp - SASS, Estructura y Diseño
+10. JournalApp - SASS, Estructura y Diseño - Sección 18
     - SASS
     - Diseño completo de la aplicación de forma manual
     - Uso de funciones de SASS
     - Configuración y uso de parciales
     - Transiciones en SASS
+11. Redux - Conceptos + React Redux - Sección 19 - 20
+    - Redux
+    - Store
+    - Middlewares
+    - Dispatch
+    - Actions
+    - State
+    - Acciones asíncronas
+    - Redux aplicado en nuestro proyecto
+    - Firebase
+    - FireStore
+    - Redux Devtools
+    - Thunk
+    - Formularios
+    - Google SingIn
+    - Acciones Asíncronas
+    - Mantener el estado de la autenticación

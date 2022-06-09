@@ -1,6 +1,9 @@
 @import './base/settings';
 @import './base/base';
 
+// Common
+@import 'components/spinner.scss';
+
 // Components
 @import './components/auth.scss';
 @import './components/buttons';

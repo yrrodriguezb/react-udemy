@@ -92,3 +92,9 @@ Curso React Udemy por [Fernando Herrera](https://www.udemy.com/user/550c38655ec1
     - Google SingIn
     - Acciones Asíncronas
     - Mantener el estado de la autenticación
+12. Redux - CRUD Firestore ySubida de Archivos - Sección 21
+    - CRUD hacia Firestore
+    - Expandiendo nuestro estore añadiendo otros reducers
+    - Seleccionar y subir archivos
+    - Animaciones adicionales a nuestra aplicación
+    - Limpieza en el logout
